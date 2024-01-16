@@ -1,4 +1,4 @@
-var destination = new Date("January 1, 2024 00:00:00").getTime();
+var destination = new Date("January 1, 2025 00:00:00").getTime();
 
 function newYear() {
     var now = new Date().getTime();
